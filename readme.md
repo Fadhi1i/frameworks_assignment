@@ -36,8 +36,7 @@ Copy code
 
 ## 📊 Dataset
 
-The dataset (`metadata.csv`) is about **[briefly describe what your dataset contains]**.  
-It is too large (>100 MB) to store directly on GitHub.
+The dataset (`metadata.csv`) is too large (>100 MB) to store directly on GitHub.
 
 👉 Download it here: [Download metadata.csv](https://drive.google.com/file/d/1Yvy8MeXmUHEply-68B_fzWLx8jFjKuTN/view?usp=sharing)
 
@@ -54,40 +53,6 @@ Copy code
 
 ---
 
-## ⚙️ Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/frameworks_assignment.git
-cd frameworks_assignment
-Create a virtual environment (recommended):
-
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate      # Mac/Linux
-venv\Scripts\activate         # Windows
-Install requirements:
-
-bash
-Copy code
-pip install -r requirements.txt
-📒 Jupyter Notebook Usage
-Launch Jupyter:
-
-bash
-Copy code
-jupyter notebook
-Open the notebooks in the notebooks/ folder and run cells step by step.
-
-🚀 Running the Streamlit App
-Run the following command:
-
-bash
-Copy code
-python -m streamlit run app.py
-Then open your browser at http://localhost:8501 to view the app.
 
 The app includes:
 
